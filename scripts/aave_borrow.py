@@ -3,4 +3,4 @@ from brownie import accounts
 def main():
     print('ads')
     account = accounts[0]
-    print(account)
+    erc20_address = "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
